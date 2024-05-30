@@ -1,0 +1,4 @@
+12 Lipstick RedLipstick Beauty 50 15 BrandB
+13 Mascara Lengthening Beauty 30 20 BrandC
+14 Moisturizer Face Beauty 25 25 BrandD
+15 Perfume RedPerfume Beauty 40 50 BrandE

@@ -1,0 +1,4 @@
+31 Novel Mystery Books 20 10 BrandF
+32 NonFiction Science Books 15 15 BrandG
+33 Fantasy EpicFantasy Books 12 20 BrandH
+34 Self-Help Motivational Books 18 12 BrandI
